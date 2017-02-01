@@ -1,0 +1,16 @@
+{
+  "name": "mars",
+  "version": "1.0.0",
+  "description": "Merely another runescape script.",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Augie Luebbers",
+  "license": "ISC"
+}

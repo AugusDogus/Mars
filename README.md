@@ -1,2 +1,2 @@
-# mars
+# Mars
 Merely Another Runescape Script
